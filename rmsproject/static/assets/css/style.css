@@ -1,0 +1,24 @@
+
+nput.form-control {
+    border: 1px solid;
+    padding: 8px;
+    width: 227px;
+    margin-bottom: 20px;
+    border-radius: 15px
+}
+.container {
+    width: 345px;
+    margin-top: 140px;
+    border: 1px solid;
+    padding: 60px;
+    border-radius: 21px;
+    margin-left: 38%;
+    /* background-image:url("../images/login.jpg") */
+}
+.loginform{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:url("../images/login\ back.jpg")
+
+    
+}
